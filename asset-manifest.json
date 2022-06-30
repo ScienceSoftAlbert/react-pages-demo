@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ScienceSoftAlbert/react-pages-demo/static/css/main.073c9b0a.css",
+    "main.js": "/ScienceSoftAlbert/react-pages-demo/static/js/main.5474bb29.js",
+    "index.html": "/ScienceSoftAlbert/react-pages-demo/index.html",
+    "static/media/logo.svg": "/ScienceSoftAlbert/react-pages-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/ScienceSoftAlbert/react-pages-demo/static/css/main.073c9b0a.css.map",
+    "main.5474bb29.js.map": "/ScienceSoftAlbert/react-pages-demo/static/js/main.5474bb29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5474bb29.js"
+  ]
+}
